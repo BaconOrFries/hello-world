@@ -1,2 +1,4 @@
 # hello-world
-Hello
+Hello!
+My name is John.
+Nice to meet you.
